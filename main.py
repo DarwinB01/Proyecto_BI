@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import requests
 import json
 import boto3
@@ -13,6 +14,8 @@ DEEZER_REDIRECT_URI = "http://developers.deezer.com/api"
 #Credenciales aws
 ACCESS_KEY_ID =  "AKIARHXSAHVRHOCGA66D"
 ACCESS_SECRET_KEY = "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"
+
+#Nombre del bucket donde se guardara la informacion
 BUCKET_NAME = 'buckettestbi2'
 
 
@@ -72,6 +75,5 @@ client.upload_file('anuel_aa_playList.json', BUCKET_NAME, upload_file_key)
 
 upload_file_key = 'Artistas/'+'Anuel aa/'+'fans/' + 'anuel_aa_fans.json'
 client.upload_file('anuel_aa_fans.json', BUCKET_NAME, upload_file_key)
-
 
 print ("Done")
