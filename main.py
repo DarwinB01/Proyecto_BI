@@ -11,9 +11,9 @@ DEEZER_APP_SECRET = "13ff2539f9cad5050430e6544fa6cd2e"
 DEEZER_REDIRECT_URI = "http://developers.deezer.com/api"
 
 #Credenciales aws
-ACCESS_KEY_ID =  "AKIAQRVRDMTQ3ZSRA6HT"
-ACCESS_SECRET_KEY = "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"
-BUCKET_NAME = 'buckettestbi'
+ACCESS_KEY_ID =  "AKIARHXSAHVRHOCGA66D"
+ACCESS_SECRET_KEY = "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"
+BUCKET_NAME = 'buckettestbi2'
 
 
 # POST
@@ -25,8 +25,8 @@ auth_response = requests.post(DEEZER_REDIRECT_URI, {
 
 
 # base URL of all Deezer API endpoints
-BASE_URL = 'https://api.deezer.com/artist/7961888/playlists'
-
+BASE_URL = 'https://api.deezer.com/artist/8798/playlists'
+#BASE_URL ='https://api.deezer.com/artist/7961888/fans'
 
 # actual GET request with proper header
 response = requests.get(BASE_URL);
@@ -35,11 +35,15 @@ print(res)
 print()
 print(type(res))
 
-with open('anuel_aa_playList.json', 'w') as f:
+with open('anuel_aa_fans.json', 'w') as f:
     json.dump(res, f, indent=4, sort_keys=True)
 
-
-data = open('anuel_aa_playList.json', 'rb')
+'''
+ruta='C://Users//user//PycharmProjects//dezzerApi//Artistas//J BALVIN//PlayList'
+with open(os.path.join(ruta, 'PlayList JBalvin.json'), 'w') as f:
+    json.dump(r, f, indent=4, sort_keys=True)
+'''
+data = open('anuel_aa_fans.json', 'rb')
 
 s3 = boto3.resource(
     's3',
@@ -47,7 +51,15 @@ s3 = boto3.resource(
     aws_secret_access_key=ACCESS_SECRET_KEY,
     config=Config(signature_version='s3v4')
 )
-#s3.Bucket(BUCKET_NAME).put_object(Key='anuel_aa_playList.json', Body=data)
+
+s3.Bucket(BUCKET_NAME).put_object(Key='MJ_playList.json', Body=data)
+#s3.Object(BUCKET_NAME, 'anuel_aa_fans.json').put(Body=open('test/Artist/Anuel aa/playList/anuel_aa_fans.json', 'rb'))
+
+#s3 = boto3.resource('s3')
+#BUCKET = "test"
+
+#s3.Bucket(BUCKET_NAME).upload_file("C://Users//lenovo//Documents//BI", "dump/BI")
+
 
 client = boto3.client(
     's3',
@@ -55,11 +67,11 @@ client = boto3.client(
     aws_secret_access_key=ACCESS_SECRET_KEY,
 )
 
-for file in os.listdir():
-    if '.json' in file:
-        file_upload = BUCKET_NAME
-        file_upload_key = 'test/Artist/Anuel aa/playList/'+ str(file)
-        client.upload_file(file,file_upload, file_upload_key)
+upload_file_key = 'Artistas/'+'Anuel aa/'+'palyList/' + 'anuel_aa_playList.json'
+client.upload_file('anuel_aa_playList.json', BUCKET_NAME, upload_file_key)
+
+upload_file_key = 'Artistas/'+'Anuel aa/'+'fans/' + 'anuel_aa_fans.json'
+client.upload_file('anuel_aa_fans.json', BUCKET_NAME, upload_file_key)
 
 
 print ("Done")
