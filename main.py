@@ -12,8 +12,8 @@ DEEZER_APP_SECRET = "13ff2539f9cad5050430e6544fa6cd2e"
 DEEZER_REDIRECT_URI = "http://developers.deezer.com/api"
 
 #Credenciales aws
-ACCESS_KEY_ID =  "AKIARHXSAHVRHOCGA66D"
-ACCESS_SECRET_KEY = "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"
+ACCESS_KEY_ID =  "AKIARHXSAHVRH7ISFHFN"
+ACCESS_SECRET_KEY = "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"
 
 #Nombre del bucket donde se guardara la informacion
 BUCKET_NAME = 'buckettestbi2'
@@ -28,7 +28,8 @@ auth_response = requests.post(DEEZER_REDIRECT_URI, {
 
 
 # base URL of all Deezer API endpoints
-BASE_URL = 'https://api.deezer.com/artist/8798/playlists'
+BASE_URL = 'https://api.deezer.com/artist/355896/playlists'
+
 #BASE_URL ='https://api.deezer.com/artist/7961888/fans'
 
 # actual GET request with proper header
@@ -38,11 +39,11 @@ print(res)
 print()
 print(type(res))
 
-with open('anuel_aa_fans.json', 'w') as f:
+with open('Giovanny Ayala_playList.json', 'w') as f:
     json.dump(res, f, indent=4, sort_keys=True)
 
 '''
-ruta='C://Users//user//PycharmProjects//dezzerApi//Artistas//J BALVIN//PlayList'
+ruta='C://Users//user//PycharmProjects//dezzerApi//Artistas//Sech//PlayList'
 with open(os.path.join(ruta, 'PlayList JBalvin.json'), 'w') as f:
     json.dump(r, f, indent=4, sort_keys=True)
 '''
@@ -55,7 +56,7 @@ s3 = boto3.resource(
     config=Config(signature_version='s3v4')
 )
 
-s3.Bucket(BUCKET_NAME).put_object(Key='MJ_playList.json', Body=data)
+s3.Bucket(BUCKET_NAME).put_object(Key='Giovanny Ayala_playList.json', Body=data)
 #s3.Object(BUCKET_NAME, 'anuel_aa_fans.json').put(Body=open('test/Artist/Anuel aa/playList/anuel_aa_fans.json', 'rb'))
 
 #s3 = boto3.resource('s3')
@@ -75,5 +76,9 @@ client.upload_file('anuel_aa_playList.json', BUCKET_NAME, upload_file_key)
 
 upload_file_key = 'Artistas/'+'Anuel aa/'+'fans/' + 'anuel_aa_fans.json'
 client.upload_file('anuel_aa_fans.json', BUCKET_NAME, upload_file_key)
+
+
+upload_file_key = 'Artistas/'+'Anuel aa/'+'palyList/' + 'MJ_playList.json'
+client.upload_file('MJ_playList.json', BUCKET_NAME, upload_file_key)
 
 print ("Done")
