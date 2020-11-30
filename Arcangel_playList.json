@@ -1,0 +1,226 @@
+{
+    "data": [
+        {
+            "checksum": "0bc0d7f92b0618637097c4adcf347e3a",
+            "creation_date": "2014-12-30 02:20:48",
+            "id": 1098908237,
+            "link": "https://www.deezer.com/playlist/1098908237",
+            "md5_image": "b7091cf2f2a12e05227d2d5955d131ab",
+            "picture": "https://api.deezer.com/playlist/1098908237/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/b7091cf2f2a12e05227d2d5955d131ab/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/b7091cf2f2a12e05227d2d5955d131ab/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/b7091cf2f2a12e05227d2d5955d131ab/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/b7091cf2f2a12e05227d2d5955d131ab/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "\u00c9xitos Totales Colombia",
+            "tracklist": "https://api.deezer.com/playlist/1098908237/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 302057723,
+                "name": "Diego - Deezer Editor Americas",
+                "tracklist": "https://api.deezer.com/user/302057723/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "7142fa4822cb8179410a5a40678dff43",
+            "creation_date": "2015-06-17 04:34:25",
+            "id": 1273315391,
+            "link": "https://www.deezer.com/playlist/1273315391",
+            "md5_image": "e074f5dab15a82f4fae4783e427f491c",
+            "picture": "https://api.deezer.com/playlist/1273315391/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/e074f5dab15a82f4fae4783e427f491c/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/e074f5dab15a82f4fae4783e427f491c/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/e074f5dab15a82f4fae4783e427f491c/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/e074f5dab15a82f4fae4783e427f491c/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Reggaeton Hits",
+            "tracklist": "https://api.deezer.com/playlist/1273315391/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 302057723,
+                "name": "Diego - Deezer Editor Americas",
+                "tracklist": "https://api.deezer.com/user/302057723/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "4a0af1085d86a549b2e2eb299189cede",
+            "creation_date": "2017-07-24 05:38:24",
+            "id": 178699142,
+            "link": "https://www.deezer.com/playlist/178699142",
+            "md5_image": "36faa48f6c4a75c6ed1332bba97d13f2",
+            "picture": "https://api.deezer.com/playlist/178699142/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/36faa48f6c4a75c6ed1332bba97d13f2/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/36faa48f6c4a75c6ed1332bba97d13f2/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/36faa48f6c4a75c6ed1332bba97d13f2/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/36faa48f6c4a75c6ed1332bba97d13f2/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Fuego Latino",
+            "tracklist": "https://api.deezer.com/playlist/178699142/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 3115986664,
+                "name": "Diego - Deezer Latin Music Editor",
+                "tracklist": "https://api.deezer.com/user/3115986664/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "ff9d33ce6fc94eb3fd8558f16f77c2e7",
+            "creation_date": "2017-07-14 10:57:37",
+            "id": 3361445166,
+            "link": "https://www.deezer.com/playlist/3361445166",
+            "md5_image": "e4689185c0b87fff937b6e4159ef70b0",
+            "picture": "https://api.deezer.com/playlist/3361445166/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/e4689185c0b87fff937b6e4159ef70b0/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/e4689185c0b87fff937b6e4159ef70b0/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/e4689185c0b87fff937b6e4159ef70b0/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/e4689185c0b87fff937b6e4159ef70b0/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Hoy Es Viernes",
+            "tracklist": "https://api.deezer.com/playlist/3361445166/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 302057723,
+                "name": "Diego - Deezer Editor Americas",
+                "tracklist": "https://api.deezer.com/user/302057723/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "ae4870748c9ed2e7f2ce7f50354cf8a6",
+            "creation_date": "2019-05-16 09:41:17",
+            "id": 5931172824,
+            "link": "https://www.deezer.com/playlist/5931172824",
+            "md5_image": "af2874af2a8676c5000b356bb6a29bb7",
+            "picture": "https://api.deezer.com/playlist/5931172824/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/af2874af2a8676c5000b356bb6a29bb7/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/af2874af2a8676c5000b356bb6a29bb7/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/af2874af2a8676c5000b356bb6a29bb7/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/af2874af2a8676c5000b356bb6a29bb7/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "\u00c9xitos Totales Trap",
+            "tracklist": "https://api.deezer.com/playlist/5931172824/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 302078805,
+                "name": "Manuel - Deezer Editor Americas",
+                "tracklist": "https://api.deezer.com/user/302078805/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "278f233a29b1c762bd7ee15ecf64668a",
+            "creation_date": "2016-10-05 08:41:56",
+            "id": 2294931926,
+            "link": "https://www.deezer.com/playlist/2294931926",
+            "md5_image": "6c8c55c553a51bfafadf34ad1d91a4b3",
+            "picture": "https://api.deezer.com/playlist/2294931926/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/6c8c55c553a51bfafadf34ad1d91a4b3/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/6c8c55c553a51bfafadf34ad1d91a4b3/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/6c8c55c553a51bfafadf34ad1d91a4b3/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/6c8c55c553a51bfafadf34ad1d91a4b3/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Latinos Revelaci\u00f3n",
+            "tracklist": "https://api.deezer.com/playlist/2294931926/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 302057723,
+                "name": "Diego - Deezer Editor Americas",
+                "tracklist": "https://api.deezer.com/user/302057723/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "aea4b4b0b795a00431a94eb7da1ba581",
+            "creation_date": "2019-06-19 10:49:42",
+            "id": 6091973484,
+            "link": "https://www.deezer.com/playlist/6091973484",
+            "md5_image": "d1bcc7eb5fe8a4d02a34e1d51e4e429b",
+            "picture": "https://api.deezer.com/playlist/6091973484/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/d1bcc7eb5fe8a4d02a34e1d51e4e429b/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/d1bcc7eb5fe8a4d02a34e1d51e4e429b/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/d1bcc7eb5fe8a4d02a34e1d51e4e429b/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/d1bcc7eb5fe8a4d02a34e1d51e4e429b/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "TOP COLOMBIA 2020",
+            "tracklist": "https://api.deezer.com/playlist/6091973484/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 51494021,
+                "name": "Filtr Colombia",
+                "tracklist": "https://api.deezer.com/user/51494021/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "e868a667ed22372fa0a05da5a4685b11",
+            "creation_date": "2020-04-23 09:52:29",
+            "id": 7560269622,
+            "link": "https://www.deezer.com/playlist/7560269622",
+            "md5_image": "a913413a6c4cd11072a83c481736c8fd",
+            "picture": "https://api.deezer.com/playlist/7560269622/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/a913413a6c4cd11072a83c481736c8fd/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/a913413a6c4cd11072a83c481736c8fd/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/a913413a6c4cd11072a83c481736c8fd/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/a913413a6c4cd11072a83c481736c8fd/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "TikTok Hits Latinos",
+            "tracklist": "https://api.deezer.com/playlist/7560269622/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 302057723,
+                "name": "Diego - Deezer Editor Americas",
+                "tracklist": "https://api.deezer.com/user/302057723/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "4706470747d9a835a729dd4c5db35ad0",
+            "creation_date": "2015-09-24 17:25:14",
+            "id": 1388276297,
+            "link": "https://www.deezer.com/playlist/1388276297",
+            "md5_image": "703bb0d5f95fd4432e4bad184eea6488",
+            "picture": "https://api.deezer.com/playlist/1388276297/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/703bb0d5f95fd4432e4bad184eea6488/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/703bb0d5f95fd4432e4bad184eea6488/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/703bb0d5f95fd4432e4bad184eea6488/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/703bb0d5f95fd4432e4bad184eea6488/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Fiesta En Casa",
+            "tracklist": "https://api.deezer.com/playlist/1388276297/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 302057723,
+                "name": "Diego - Deezer Editor Americas",
+                "tracklist": "https://api.deezer.com/user/302057723/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "b9d71849710ca01cad88d4853904917e",
+            "creation_date": "2016-07-14 11:16:39",
+            "id": 2025681806,
+            "link": "https://www.deezer.com/playlist/2025681806",
+            "md5_image": "49a6767104d2d685bc47a314fac18d12",
+            "picture": "https://api.deezer.com/playlist/2025681806/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/49a6767104d2d685bc47a314fac18d12/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/49a6767104d2d685bc47a314fac18d12/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/49a6767104d2d685bc47a314fac18d12/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/49a6767104d2d685bc47a314fac18d12/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "\u00c9xitos Totales Latinoam\u00e9rica",
+            "tracklist": "https://api.deezer.com/playlist/2025681806/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 302057723,
+                "name": "Diego - Deezer Editor Americas",
+                "tracklist": "https://api.deezer.com/user/302057723/flow",
+                "type": "user"
+            }
+        }
+    ],
+    "next": "https://api.deezer.com/artist/5536564/playlists?index=10",
+    "total": 100
+}

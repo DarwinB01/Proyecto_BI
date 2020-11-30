@@ -1,0 +1,226 @@
+{
+    "data": [
+        {
+            "checksum": "181a0d9d917390af78e165097efa972a",
+            "creation_date": "2014-02-18 12:30:16",
+            "id": 789123393,
+            "link": "https://www.deezer.com/playlist/789123393",
+            "md5_image": "0d0103acc7a90554019f49d0a4298eb1",
+            "picture": "https://api.deezer.com/playlist/789123393/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/0d0103acc7a90554019f49d0a4298eb1/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/0d0103acc7a90554019f49d0a4298eb1/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/0d0103acc7a90554019f49d0a4298eb1/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/0d0103acc7a90554019f49d0a4298eb1/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Reggaeton Classics",
+            "tracklist": "https://api.deezer.com/playlist/789123393/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 302057723,
+                "name": "Diego - Deezer Editor Americas",
+                "tracklist": "https://api.deezer.com/user/302057723/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "d10a40bd341eb96b8068772a6d7394fa",
+            "creation_date": "2018-11-14 18:12:08",
+            "id": 5104249748,
+            "link": "https://www.deezer.com/playlist/5104249748",
+            "md5_image": "af3eb5b7c656923d5b0a66754070fcc0",
+            "picture": "https://api.deezer.com/playlist/5104249748/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/af3eb5b7c656923d5b0a66754070fcc0/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/af3eb5b7c656923d5b0a66754070fcc0/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/af3eb5b7c656923d5b0a66754070fcc0/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/af3eb5b7c656923d5b0a66754070fcc0/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Latin Classics",
+            "tracklist": "https://api.deezer.com/playlist/5104249748/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 3115986664,
+                "name": "Diego - Deezer Latin Music Editor",
+                "tracklist": "https://api.deezer.com/user/3115986664/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "27bb1676ed73c40facefdd7245405132",
+            "creation_date": "2018-12-03 04:16:54",
+            "id": 5174094184,
+            "link": "https://www.deezer.com/playlist/5174094184",
+            "md5_image": "07336b267472c0bf659fd6d3595910a5",
+            "picture": "https://api.deezer.com/playlist/5174094184/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/07336b267472c0bf659fd6d3595910a5/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/07336b267472c0bf659fd6d3595910a5/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/07336b267472c0bf659fd6d3595910a5/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/07336b267472c0bf659fd6d3595910a5/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "10s Latin Music",
+            "tracklist": "https://api.deezer.com/playlist/5174094184/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 3115986664,
+                "name": "Diego - Deezer Latin Music Editor",
+                "tracklist": "https://api.deezer.com/user/3115986664/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "f06943854fdb76476f4eae825171a155",
+            "creation_date": "2019-02-25 15:27:10",
+            "id": 5541000342,
+            "link": "https://www.deezer.com/playlist/5541000342",
+            "md5_image": "978eab8c67f401b9da9db73bfc1b64cb",
+            "picture": "https://api.deezer.com/playlist/5541000342/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/978eab8c67f401b9da9db73bfc1b64cb/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/978eab8c67f401b9da9db73bfc1b64cb/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/978eab8c67f401b9da9db73bfc1b64cb/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/978eab8c67f401b9da9db73bfc1b64cb/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Reguet\u00f3n Viejo Old School",
+            "tracklist": "https://api.deezer.com/playlist/5541000342/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 366993563,
+                "name": "Digster Music",
+                "tracklist": "https://api.deezer.com/user/366993563/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "f57771613dbb3914c979887bb3a049c6",
+            "creation_date": "2017-07-26 12:19:26",
+            "id": 254227453,
+            "link": "https://www.deezer.com/playlist/254227453",
+            "md5_image": "7c1f60ca7478e28db830c1682d03b87f",
+            "picture": "https://api.deezer.com/playlist/254227453/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/7c1f60ca7478e28db830c1682d03b87f/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/7c1f60ca7478e28db830c1682d03b87f/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/7c1f60ca7478e28db830c1682d03b87f/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/7c1f60ca7478e28db830c1682d03b87f/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Vamos a la playa",
+            "tracklist": "https://api.deezer.com/playlist/254227453/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 3115986664,
+                "name": "Diego - Deezer Latin Music Editor",
+                "tracklist": "https://api.deezer.com/user/3115986664/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "88d9ef2c4fe95d9245f95a7a88cb0ecf",
+            "creation_date": "2018-10-09 06:27:42",
+            "id": 4962683744,
+            "link": "https://www.deezer.com/playlist/4962683744",
+            "md5_image": "f2279b97d3744e54108c10c7b1930613",
+            "picture": "https://api.deezer.com/playlist/4962683744/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/f2279b97d3744e54108c10c7b1930613/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/f2279b97d3744e54108c10c7b1930613/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/f2279b97d3744e54108c10c7b1930613/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/f2279b97d3744e54108c10c7b1930613/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "100% Bad Bunny",
+            "tracklist": "https://api.deezer.com/playlist/4962683744/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 1990304482,
+                "name": "Deezer Artist Editor",
+                "tracklist": "https://api.deezer.com/user/1990304482/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "1a6254282ba755c2f4a1cb3b5a8c4be3",
+            "creation_date": "2019-02-18 17:50:17",
+            "id": 5505214042,
+            "link": "https://www.deezer.com/playlist/5505214042",
+            "md5_image": "d9f4dba893dd656fb9a33efced7eaddd",
+            "picture": "https://api.deezer.com/playlist/5505214042/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/d9f4dba893dd656fb9a33efced7eaddd/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/d9f4dba893dd656fb9a33efced7eaddd/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/d9f4dba893dd656fb9a33efced7eaddd/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/d9f4dba893dd656fb9a33efced7eaddd/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Cl\u00e1sicos del Reguet\u00f3n",
+            "tracklist": "https://api.deezer.com/playlist/5505214042/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 366993563,
+                "name": "Digster Music",
+                "tracklist": "https://api.deezer.com/user/366993563/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "acf238351312e21ef9c9b130eb59675e",
+            "creation_date": "2017-06-21 05:01:03",
+            "id": 3279798822,
+            "link": "https://www.deezer.com/playlist/3279798822",
+            "md5_image": "57a7e16c467c731c01bb004d51073a87",
+            "picture": "https://api.deezer.com/playlist/3279798822/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/57a7e16c467c731c01bb004d51073a87/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/57a7e16c467c731c01bb004d51073a87/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/57a7e16c467c731c01bb004d51073a87/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/57a7e16c467c731c01bb004d51073a87/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Caliente",
+            "tracklist": "https://api.deezer.com/playlist/3279798822/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 3115986664,
+                "name": "Diego - Deezer Latin Music Editor",
+                "tracklist": "https://api.deezer.com/user/3115986664/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "8f03a360eae44fd41573c0d6b316179c",
+            "creation_date": "2019-12-19 15:24:40",
+            "id": 6987556164,
+            "link": "https://www.deezer.com/playlist/6987556164",
+            "md5_image": "f2c5e4c41dcc28d86b9376db287e14ef",
+            "picture": "https://api.deezer.com/playlist/6987556164/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/f2c5e4c41dcc28d86b9376db287e14ef/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/f2c5e4c41dcc28d86b9376db287e14ef/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/f2c5e4c41dcc28d86b9376db287e14ef/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/f2c5e4c41dcc28d86b9376db287e14ef/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "00s Latin Music",
+            "tracklist": "https://api.deezer.com/playlist/6987556164/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 3115986664,
+                "name": "Diego - Deezer Latin Music Editor",
+                "tracklist": "https://api.deezer.com/user/3115986664/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "1bd2e15a6b47d9dcc35a65c6c8df5bf9",
+            "creation_date": "2016-04-11 11:53:42",
+            "id": 1718645957,
+            "link": "https://www.deezer.com/playlist/1718645957",
+            "md5_image": "cb534f7c2c224fe81d6332aa6c498344",
+            "picture": "https://api.deezer.com/playlist/1718645957/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/cb534f7c2c224fe81d6332aa6c498344/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/cb534f7c2c224fe81d6332aa6c498344/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/cb534f7c2c224fe81d6332aa6c498344/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/cb534f7c2c224fe81d6332aa6c498344/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Entrenamiento Casero",
+            "tracklist": "https://api.deezer.com/playlist/1718645957/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 302057723,
+                "name": "Diego - Deezer Editor Americas",
+                "tracklist": "https://api.deezer.com/user/302057723/flow",
+                "type": "user"
+            }
+        }
+    ],
+    "next": "https://api.deezer.com/artist/725/playlists?index=10",
+    "total": 100
+}

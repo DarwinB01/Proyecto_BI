@@ -1,0 +1,226 @@
+{
+    "data": [
+        {
+            "checksum": "dcca9f7b4d74bbc220d255b756a8613c",
+            "creation_date": "2019-02-07 11:33:49",
+            "id": 5445619082,
+            "link": "https://www.deezer.com/playlist/5445619082",
+            "md5_image": "9eeafa85fe3bcb8bb47d2bdfbee78713",
+            "picture": "https://api.deezer.com/playlist/5445619082/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/9eeafa85fe3bcb8bb47d2bdfbee78713/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/9eeafa85fe3bcb8bb47d2bdfbee78713/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/9eeafa85fe3bcb8bb47d2bdfbee78713/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/9eeafa85fe3bcb8bb47d2bdfbee78713/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Hits M\u00fasica Popular",
+            "tracklist": "https://api.deezer.com/playlist/5445619082/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 302057723,
+                "name": "Diego - Deezer Editor Americas",
+                "tracklist": "https://api.deezer.com/user/302057723/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "225fbe4f41b7eec3439fd1b8378cf3c8",
+            "creation_date": "2017-07-07 13:22:56",
+            "id": 3337370766,
+            "link": "https://www.deezer.com/playlist/3337370766",
+            "md5_image": "cbaaca238673074ebe74aa2a10de7054",
+            "picture": "https://api.deezer.com/playlist/3337370766/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/cbaaca238673074ebe74aa2a10de7054/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/cbaaca238673074ebe74aa2a10de7054/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/cbaaca238673074ebe74aa2a10de7054/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/cbaaca238673074ebe74aa2a10de7054/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Bendita Popular",
+            "tracklist": "https://api.deezer.com/playlist/3337370766/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 302057723,
+                "name": "Diego - Deezer Editor Americas",
+                "tracklist": "https://api.deezer.com/user/302057723/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "668a1bb2be154b7623d3cc72b6422462",
+            "creation_date": "2019-09-18 03:09:43",
+            "id": 6556887484,
+            "link": "https://www.deezer.com/playlist/6556887484",
+            "md5_image": "1f80243fa406b6a9755d465d28b18355",
+            "picture": "https://api.deezer.com/playlist/6556887484/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/1f80243fa406b6a9755d465d28b18355/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/1f80243fa406b6a9755d465d28b18355/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/1f80243fa406b6a9755d465d28b18355/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/1f80243fa406b6a9755d465d28b18355/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Novedades de la Semana",
+            "tracklist": "https://api.deezer.com/playlist/6556887484/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 302057723,
+                "name": "Diego - Deezer Editor Americas",
+                "tracklist": "https://api.deezer.com/user/302057723/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "281b9de01378ce34edb2f33ae8a41c8d",
+            "creation_date": "2020-04-21 13:54:17",
+            "id": 7552447262,
+            "link": "https://www.deezer.com/playlist/7552447262",
+            "md5_image": "045885b865b339fe7806d343668b9241",
+            "picture": "https://api.deezer.com/playlist/7552447262/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/045885b865b339fe7806d343668b9241/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/045885b865b339fe7806d343668b9241/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/045885b865b339fe7806d343668b9241/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/045885b865b339fe7806d343668b9241/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Amor, penas y despecho",
+            "tracklist": "https://api.deezer.com/playlist/7552447262/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 302057723,
+                "name": "Diego - Deezer Editor Americas",
+                "tracklist": "https://api.deezer.com/user/302057723/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "6cd26ee95a52fd25993229c29ec45801",
+            "creation_date": "2017-07-26 12:59:42",
+            "id": 3412456186,
+            "link": "https://www.deezer.com/playlist/3412456186",
+            "md5_image": "f661d32f41a525c32d0c7c3032cdc23d",
+            "picture": "https://api.deezer.com/playlist/3412456186/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/f661d32f41a525c32d0c7c3032cdc23d/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/f661d32f41a525c32d0c7c3032cdc23d/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/f661d32f41a525c32d0c7c3032cdc23d/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/f661d32f41a525c32d0c7c3032cdc23d/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "LA NOCHE DEL GUARO Y EL DESPECHO",
+            "tracklist": "https://api.deezer.com/playlist/3412456186/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 418953453,
+                "name": "Tu Boleta",
+                "tracklist": "https://api.deezer.com/user/418953453/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "76487f49a5c7dc9e120fcbe1f1a72ec1",
+            "creation_date": "2017-02-14 11:58:02",
+            "id": 2814357288,
+            "link": "https://www.deezer.com/playlist/2814357288",
+            "md5_image": "169058b32d09bab374716b8b748f0675",
+            "picture": "https://api.deezer.com/playlist/2814357288/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/169058b32d09bab374716b8b748f0675/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/169058b32d09bab374716b8b748f0675/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/169058b32d09bab374716b8b748f0675/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/169058b32d09bab374716b8b748f0675/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "SUPER CANTINAZO",
+            "tracklist": "https://api.deezer.com/playlist/2814357288/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 418953453,
+                "name": "Tu Boleta",
+                "tracklist": "https://api.deezer.com/user/418953453/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "e3c4f0eef89b100d49edafedd1a0310f",
+            "creation_date": "2020-10-28 16:44:13",
+            "id": 8291925522,
+            "link": "https://www.deezer.com/playlist/8291925522",
+            "md5_image": "37fece2551ba31f39f83e10a7235df67",
+            "picture": "https://api.deezer.com/playlist/8291925522/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/37fece2551ba31f39f83e10a7235df67/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/37fece2551ba31f39f83e10a7235df67/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/37fece2551ba31f39f83e10a7235df67/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/37fece2551ba31f39f83e10a7235df67/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Rancheras, Despecho y Licor",
+            "tracklist": "https://api.deezer.com/playlist/8291925522/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 366993563,
+                "name": "Digster Music",
+                "tracklist": "https://api.deezer.com/user/366993563/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "f1bab856145f957e8c1b27cc5efc87e8",
+            "creation_date": "2019-01-28 10:59:41",
+            "id": 5397499742,
+            "link": "https://www.deezer.com/playlist/5397499742",
+            "md5_image": "17eeb78ee85503f467ee418acff0bca5",
+            "picture": "https://api.deezer.com/playlist/5397499742/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/17eeb78ee85503f467ee418acff0bca5/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/17eeb78ee85503f467ee418acff0bca5/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/17eeb78ee85503f467ee418acff0bca5/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/17eeb78ee85503f467ee418acff0bca5/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "RANCHERAS 2020",
+            "tracklist": "https://api.deezer.com/playlist/5397499742/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 845677435,
+                "name": "Top Playlists",
+                "tracklist": "https://api.deezer.com/user/845677435/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "464a3a30b78b674a6c3ced4af67636c8",
+            "creation_date": "2015-11-24 14:17:12",
+            "id": 1469064337,
+            "link": "https://www.deezer.com/playlist/1469064337",
+            "md5_image": "759f926a4a6790d491f0d450f613d1e7",
+            "picture": "https://api.deezer.com/playlist/1469064337/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/759f926a4a6790d491f0d450f613d1e7/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/759f926a4a6790d491f0d450f613d1e7/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/759f926a4a6790d491f0d450f613d1e7/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/759f926a4a6790d491f0d450f613d1e7/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "\u00c9xitos de la m\u00fasica popular",
+            "tracklist": "https://api.deezer.com/playlist/1469064337/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 472417363,
+                "name": "Codiscos",
+                "tracklist": "https://api.deezer.com/user/472417363/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "2311b9bad1eb0d69ae15de7e80a5a9c2",
+            "creation_date": "2018-01-02 10:03:56",
+            "id": 3989337906,
+            "link": "https://www.deezer.com/playlist/3989337906",
+            "md5_image": "d0062dba050079b6daf915c61216ea14",
+            "picture": "https://api.deezer.com/playlist/3989337906/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/d0062dba050079b6daf915c61216ea14/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/d0062dba050079b6daf915c61216ea14/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/d0062dba050079b6daf915c61216ea14/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/d0062dba050079b6daf915c61216ea14/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "SUPER CANTINAZO",
+            "tracklist": "https://api.deezer.com/playlist/3989337906/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 418953453,
+                "name": "Tu Boleta",
+                "tracklist": "https://api.deezer.com/user/418953453/flow",
+                "type": "user"
+            }
+        }
+    ],
+    "next": "https://api.deezer.com/artist/9041042/playlists?index=10",
+    "total": 19
+}

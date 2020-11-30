@@ -1,0 +1,226 @@
+{
+    "data": [
+        {
+            "checksum": "a665d80672cb690fcb96ae9aa39279ba",
+            "creation_date": "2015-05-06 12:53:59",
+            "id": 1227811731,
+            "link": "https://www.deezer.com/playlist/1227811731",
+            "md5_image": "7b3768c12cd5643d9aa06552de4ef574",
+            "picture": "https://api.deezer.com/playlist/1227811731/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/7b3768c12cd5643d9aa06552de4ef574/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/7b3768c12cd5643d9aa06552de4ef574/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/7b3768c12cd5643d9aa06552de4ef574/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/7b3768c12cd5643d9aa06552de4ef574/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Poperreo",
+            "tracklist": "https://api.deezer.com/playlist/1227811731/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 302057723,
+                "name": "Diego - Deezer Editor Americas",
+                "tracklist": "https://api.deezer.com/user/302057723/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "181a0d9d917390af78e165097efa972a",
+            "creation_date": "2014-02-18 12:30:16",
+            "id": 789123393,
+            "link": "https://www.deezer.com/playlist/789123393",
+            "md5_image": "0d0103acc7a90554019f49d0a4298eb1",
+            "picture": "https://api.deezer.com/playlist/789123393/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/0d0103acc7a90554019f49d0a4298eb1/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/0d0103acc7a90554019f49d0a4298eb1/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/0d0103acc7a90554019f49d0a4298eb1/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/0d0103acc7a90554019f49d0a4298eb1/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Reggaeton Classics",
+            "tracklist": "https://api.deezer.com/playlist/789123393/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 302057723,
+                "name": "Diego - Deezer Editor Americas",
+                "tracklist": "https://api.deezer.com/user/302057723/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "f06943854fdb76476f4eae825171a155",
+            "creation_date": "2019-02-25 15:27:10",
+            "id": 5541000342,
+            "link": "https://www.deezer.com/playlist/5541000342",
+            "md5_image": "978eab8c67f401b9da9db73bfc1b64cb",
+            "picture": "https://api.deezer.com/playlist/5541000342/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/978eab8c67f401b9da9db73bfc1b64cb/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/978eab8c67f401b9da9db73bfc1b64cb/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/978eab8c67f401b9da9db73bfc1b64cb/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/978eab8c67f401b9da9db73bfc1b64cb/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Reguet\u00f3n Viejo Old School",
+            "tracklist": "https://api.deezer.com/playlist/5541000342/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 366993563,
+                "name": "Digster Music",
+                "tracklist": "https://api.deezer.com/user/366993563/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "88d9ef2c4fe95d9245f95a7a88cb0ecf",
+            "creation_date": "2018-10-09 06:27:42",
+            "id": 4962683744,
+            "link": "https://www.deezer.com/playlist/4962683744",
+            "md5_image": "f2279b97d3744e54108c10c7b1930613",
+            "picture": "https://api.deezer.com/playlist/4962683744/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/f2279b97d3744e54108c10c7b1930613/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/f2279b97d3744e54108c10c7b1930613/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/f2279b97d3744e54108c10c7b1930613/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/f2279b97d3744e54108c10c7b1930613/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "100% Bad Bunny",
+            "tracklist": "https://api.deezer.com/playlist/4962683744/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 1990304482,
+                "name": "Deezer Artist Editor",
+                "tracklist": "https://api.deezer.com/user/1990304482/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "1a6254282ba755c2f4a1cb3b5a8c4be3",
+            "creation_date": "2019-02-18 17:50:17",
+            "id": 5505214042,
+            "link": "https://www.deezer.com/playlist/5505214042",
+            "md5_image": "d9f4dba893dd656fb9a33efced7eaddd",
+            "picture": "https://api.deezer.com/playlist/5505214042/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/d9f4dba893dd656fb9a33efced7eaddd/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/d9f4dba893dd656fb9a33efced7eaddd/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/d9f4dba893dd656fb9a33efced7eaddd/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/d9f4dba893dd656fb9a33efced7eaddd/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Cl\u00e1sicos del Reguet\u00f3n",
+            "tracklist": "https://api.deezer.com/playlist/5505214042/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 366993563,
+                "name": "Digster Music",
+                "tracklist": "https://api.deezer.com/user/366993563/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "aea4b4b0b795a00431a94eb7da1ba581",
+            "creation_date": "2019-06-19 10:49:42",
+            "id": 6091973484,
+            "link": "https://www.deezer.com/playlist/6091973484",
+            "md5_image": "d1bcc7eb5fe8a4d02a34e1d51e4e429b",
+            "picture": "https://api.deezer.com/playlist/6091973484/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/d1bcc7eb5fe8a4d02a34e1d51e4e429b/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/d1bcc7eb5fe8a4d02a34e1d51e4e429b/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/d1bcc7eb5fe8a4d02a34e1d51e4e429b/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/d1bcc7eb5fe8a4d02a34e1d51e4e429b/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "TOP COLOMBIA 2020",
+            "tracklist": "https://api.deezer.com/playlist/6091973484/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 51494021,
+                "name": "Filtr Colombia",
+                "tracklist": "https://api.deezer.com/user/51494021/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "d3b352c08d00a2468db8bb7515584646",
+            "creation_date": "2015-07-17 12:36:27",
+            "id": 1307345276,
+            "link": "https://www.deezer.com/playlist/1307345276",
+            "md5_image": "d4b2dc2eb6da5607d0b3b886411d77f7",
+            "picture": "https://api.deezer.com/playlist/1307345276/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/d4b2dc2eb6da5607d0b3b886411d77f7/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/d4b2dc2eb6da5607d0b3b886411d77f7/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/d4b2dc2eb6da5607d0b3b886411d77f7/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/d4b2dc2eb6da5607d0b3b886411d77f7/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Nuevo Reggaeton 2020, Mix Reggaet\u00f3n, Perreo",
+            "tracklist": "https://api.deezer.com/playlist/1307345276/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 379383265,
+                "name": "Filtr Centroam\u00e9rica y Caribe",
+                "tracklist": "https://api.deezer.com/user/379383265/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "3659c26113468069e9dcd1a3c8a1a757",
+            "creation_date": "2020-02-23 18:24:05",
+            "id": 7298424724,
+            "link": "https://www.deezer.com/playlist/7298424724",
+            "md5_image": "213f8abddf4474ca680f9d1055dd87fb",
+            "picture": "https://api.deezer.com/playlist/7298424724/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/213f8abddf4474ca680f9d1055dd87fb/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/213f8abddf4474ca680f9d1055dd87fb/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/213f8abddf4474ca680f9d1055dd87fb/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/213f8abddf4474ca680f9d1055dd87fb/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "100% Farruko",
+            "tracklist": "https://api.deezer.com/playlist/7298424724/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 1990304482,
+                "name": "Deezer Artist Editor",
+                "tracklist": "https://api.deezer.com/user/1990304482/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "3ab6d62079095ada1ee53e3d15ce437c",
+            "creation_date": "2014-06-23 18:33:34",
+            "id": 905901935,
+            "link": "https://www.deezer.com/playlist/905901935",
+            "md5_image": "9d64804a07228d377a70fe358d18ea91",
+            "picture": "https://api.deezer.com/playlist/905901935/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/9d64804a07228d377a70fe358d18ea91/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/9d64804a07228d377a70fe358d18ea91/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/9d64804a07228d377a70fe358d18ea91/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/9d64804a07228d377a70fe358d18ea91/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "REGUETON 2020",
+            "tracklist": "https://api.deezer.com/playlist/905901935/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 492148543,
+                "name": "Filtr Mexico",
+                "tracklist": "https://api.deezer.com/user/492148543/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "66a6d94df023b30ff973262ffc4ff858",
+            "creation_date": "2020-05-06 17:43:41",
+            "id": 7615946842,
+            "link": "https://www.deezer.com/playlist/7615946842",
+            "md5_image": "680050376d6570b657f7364a1d3b2562",
+            "picture": "https://api.deezer.com/playlist/7615946842/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/680050376d6570b657f7364a1d3b2562/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/680050376d6570b657f7364a1d3b2562/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/680050376d6570b657f7364a1d3b2562/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/680050376d6570b657f7364a1d3b2562/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "100% Karol G",
+            "tracklist": "https://api.deezer.com/playlist/7615946842/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 1990304482,
+                "name": "Deezer Artist Editor",
+                "tracklist": "https://api.deezer.com/user/1990304482/flow",
+                "type": "user"
+            }
+        }
+    ],
+    "next": "https://api.deezer.com/artist/517429/playlists?index=10",
+    "total": 100
+}

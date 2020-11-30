@@ -1,0 +1,226 @@
+{
+    "data": [
+        {
+            "checksum": "863d8f036f8a55e3aa00649c8d5f06fa",
+            "creation_date": "2015-10-14 09:17:17",
+            "id": 1413309725,
+            "link": "https://www.deezer.com/playlist/1413309725",
+            "md5_image": "f216e696e836e455125f1a6ad6d1a141",
+            "picture": "https://api.deezer.com/playlist/1413309725/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/f216e696e836e455125f1a6ad6d1a141/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/f216e696e836e455125f1a6ad6d1a141/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/f216e696e836e455125f1a6ad6d1a141/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/f216e696e836e455125f1a6ad6d1a141/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "80s Pop Rock",
+            "tracklist": "https://api.deezer.com/playlist/1413309725/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 753566875,
+                "name": "Rod - Deezer Rock Editor",
+                "tracklist": "https://api.deezer.com/user/753566875/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "0f1556fa6a5a7faafed6d468659565dd",
+            "creation_date": "2019-02-21 10:36:10",
+            "id": 5518135442,
+            "link": "https://www.deezer.com/playlist/5518135442",
+            "md5_image": "54c42130e272e27c7fa10244e9049978",
+            "picture": "https://api.deezer.com/playlist/5518135442/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/54c42130e272e27c7fa10244e9049978/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/54c42130e272e27c7fa10244e9049978/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/54c42130e272e27c7fa10244e9049978/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/54c42130e272e27c7fa10244e9049978/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "BALADAS AMERICANAS 80'S Y 90'S",
+            "tracklist": "https://api.deezer.com/playlist/5518135442/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 366993563,
+                "name": "Digster Music",
+                "tracklist": "https://api.deezer.com/user/366993563/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "fb71c1c6c0fb82649702774b394b7190",
+            "creation_date": "2020-08-19 05:44:54",
+            "id": 8027597282,
+            "link": "https://www.deezer.com/playlist/8027597282",
+            "md5_image": "97604d6f10f462a5ad8f859c7c3c5e8b",
+            "picture": "https://api.deezer.com/playlist/8027597282/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/97604d6f10f462a5ad8f859c7c3c5e8b/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/97604d6f10f462a5ad8f859c7c3c5e8b/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/97604d6f10f462a5ad8f859c7c3c5e8b/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/97604d6f10f462a5ad8f859c7c3c5e8b/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "90s Pop Rock",
+            "tracklist": "https://api.deezer.com/playlist/8027597282/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 753566875,
+                "name": "Rod - Deezer Rock Editor",
+                "tracklist": "https://api.deezer.com/user/753566875/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "ff9ac72d441ae4de66a12a2e71d24c35",
+            "creation_date": "2016-06-10 05:23:44",
+            "id": 1913763402,
+            "link": "https://www.deezer.com/playlist/1913763402",
+            "md5_image": "374357dfa1912479771d7daad68e4f57",
+            "picture": "https://api.deezer.com/playlist/1913763402/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/374357dfa1912479771d7daad68e4f57/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/374357dfa1912479771d7daad68e4f57/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/374357dfa1912479771d7daad68e4f57/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/374357dfa1912479771d7daad68e4f57/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "80s Party Hits",
+            "tracklist": "https://api.deezer.com/playlist/1913763402/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 846571671,
+                "name": "Alice - Deezer Moods Editor",
+                "tracklist": "https://api.deezer.com/user/846571671/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "d72efe96a555e2cddc53c3c9d925b14f",
+            "creation_date": "2014-11-06 07:23:46",
+            "id": 1036183001,
+            "link": "https://www.deezer.com/playlist/1036183001",
+            "md5_image": "a60fff82d139e92ebb6b2c3bcde10654",
+            "picture": "https://api.deezer.com/playlist/1036183001/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/a60fff82d139e92ebb6b2c3bcde10654/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/a60fff82d139e92ebb6b2c3bcde10654/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/a60fff82d139e92ebb6b2c3bcde10654/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/a60fff82d139e92ebb6b2c3bcde10654/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Pop Essentials",
+            "tracklist": "https://api.deezer.com/playlist/1036183001/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 753546365,
+                "name": "F\u00e1bio - Deezer Pop Editor",
+                "tracklist": "https://api.deezer.com/user/753546365/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "9ab6fc0e3fbc4841b8b9969af9163b91",
+            "creation_date": "2017-01-11 11:32:17",
+            "id": 2674854044,
+            "link": "https://www.deezer.com/playlist/2674854044",
+            "md5_image": "755ef7afc871f1e2ad9e6aebb62c3771",
+            "picture": "https://api.deezer.com/playlist/2674854044/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/755ef7afc871f1e2ad9e6aebb62c3771/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/755ef7afc871f1e2ad9e6aebb62c3771/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/755ef7afc871f1e2ad9e6aebb62c3771/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/755ef7afc871f1e2ad9e6aebb62c3771/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Cl\u00e1sicos en Ingl\u00e9s : 'Clasicos del Pop y Rock en Ingl\u00e9s' : Pop 90s, 80s, 70s & 60s",
+            "tracklist": "https://api.deezer.com/playlist/2674854044/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 148703553,
+                "name": "Filtr Spain",
+                "tracklist": "https://api.deezer.com/user/148703553/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "55c19b1ae14555cab21e8ea1fcf25d97",
+            "creation_date": "2020-11-02 09:38:23",
+            "id": 8311123682,
+            "link": "https://www.deezer.com/playlist/8311123682",
+            "md5_image": "5f4a1d6bc8d227c8d0d3908f96967c8a",
+            "picture": "https://api.deezer.com/playlist/8311123682/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/5f4a1d6bc8d227c8d0d3908f96967c8a/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/5f4a1d6bc8d227c8d0d3908f96967c8a/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/5f4a1d6bc8d227c8d0d3908f96967c8a/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/5f4a1d6bc8d227c8d0d3908f96967c8a/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "90s Pop",
+            "tracklist": "https://api.deezer.com/playlist/8311123682/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 753546365,
+                "name": "F\u00e1bio - Deezer Pop Editor",
+                "tracklist": "https://api.deezer.com/user/753546365/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "8510424d4eaa418b3ebdf6ccb5ca7ec9",
+            "creation_date": "2014-05-26 07:53:21",
+            "id": 878989033,
+            "link": "https://www.deezer.com/playlist/878989033",
+            "md5_image": "51994d4318386642f7845c459985d053",
+            "picture": "https://api.deezer.com/playlist/878989033/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/51994d4318386642f7845c459985d053/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/51994d4318386642f7845c459985d053/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/51994d4318386642f7845c459985d053/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/51994d4318386642f7845c459985d053/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Back to the 90s",
+            "tracklist": "https://api.deezer.com/playlist/878989033/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 846571671,
+                "name": "Alice - Deezer Moods Editor",
+                "tracklist": "https://api.deezer.com/user/846571671/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "2db6b0c316082c059552eeeda49a8230",
+            "creation_date": "2017-09-28 10:16:15",
+            "id": 3631248842,
+            "link": "https://www.deezer.com/playlist/3631248842",
+            "md5_image": "e9e3f22ca1af1f5cf0e09830be33a847",
+            "picture": "https://api.deezer.com/playlist/3631248842/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/e9e3f22ca1af1f5cf0e09830be33a847/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/e9e3f22ca1af1f5cf0e09830be33a847/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/e9e3f22ca1af1f5cf0e09830be33a847/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/e9e3f22ca1af1f5cf0e09830be33a847/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Flashback Party",
+            "tracklist": "https://api.deezer.com/playlist/3631248842/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 846571671,
+                "name": "Alice - Deezer Moods Editor",
+                "tracklist": "https://api.deezer.com/user/846571671/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "0c649398774b3b1c84f8e375c33e102e",
+            "creation_date": "2016-06-22 07:22:53",
+            "id": 1954158102,
+            "link": "https://www.deezer.com/playlist/1954158102",
+            "md5_image": "42bc354e320a0bb85e449c4e4ec77988",
+            "picture": "https://api.deezer.com/playlist/1954158102/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/42bc354e320a0bb85e449c4e4ec77988/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/42bc354e320a0bb85e449c4e4ec77988/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/42bc354e320a0bb85e449c4e4ec77988/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/42bc354e320a0bb85e449c4e4ec77988/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "100% Michael Jackson",
+            "tracklist": "https://api.deezer.com/playlist/1954158102/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 1990304482,
+                "name": "Deezer Artist Editor",
+                "tracklist": "https://api.deezer.com/user/1990304482/flow",
+                "type": "user"
+            }
+        }
+    ],
+    "next": "https://api.deezer.com/artist/259/playlists?index=10",
+    "total": 100
+}

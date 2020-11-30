@@ -1,0 +1,226 @@
+{
+    "data": [
+        {
+            "checksum": "dcca9f7b4d74bbc220d255b756a8613c",
+            "creation_date": "2019-02-07 11:33:49",
+            "id": 5445619082,
+            "link": "https://www.deezer.com/playlist/5445619082",
+            "md5_image": "9eeafa85fe3bcb8bb47d2bdfbee78713",
+            "picture": "https://api.deezer.com/playlist/5445619082/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/9eeafa85fe3bcb8bb47d2bdfbee78713/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/9eeafa85fe3bcb8bb47d2bdfbee78713/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/9eeafa85fe3bcb8bb47d2bdfbee78713/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/9eeafa85fe3bcb8bb47d2bdfbee78713/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Hits M\u00fasica Popular",
+            "tracklist": "https://api.deezer.com/playlist/5445619082/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 302057723,
+                "name": "Diego - Deezer Editor Americas",
+                "tracklist": "https://api.deezer.com/user/302057723/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "281b9de01378ce34edb2f33ae8a41c8d",
+            "creation_date": "2020-04-21 13:54:17",
+            "id": 7552447262,
+            "link": "https://www.deezer.com/playlist/7552447262",
+            "md5_image": "045885b865b339fe7806d343668b9241",
+            "picture": "https://api.deezer.com/playlist/7552447262/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/045885b865b339fe7806d343668b9241/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/045885b865b339fe7806d343668b9241/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/045885b865b339fe7806d343668b9241/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/045885b865b339fe7806d343668b9241/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Amor, penas y despecho",
+            "tracklist": "https://api.deezer.com/playlist/7552447262/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 302057723,
+                "name": "Diego - Deezer Editor Americas",
+                "tracklist": "https://api.deezer.com/user/302057723/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "c7f9b4dcf7461f1c8ed942f90794f279",
+            "creation_date": "2020-03-03 12:05:08",
+            "id": 7335167564,
+            "link": "https://www.deezer.com/playlist/7335167564",
+            "md5_image": "4012ef81d30ddf1d0e4bd5ee3fabbd10",
+            "picture": "https://api.deezer.com/playlist/7335167564/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/4012ef81d30ddf1d0e4bd5ee3fabbd10/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/4012ef81d30ddf1d0e4bd5ee3fabbd10/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/4012ef81d30ddf1d0e4bd5ee3fabbd10/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/4012ef81d30ddf1d0e4bd5ee3fabbd10/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Popular y Ranchera 2020",
+            "tracklist": "https://api.deezer.com/playlist/7335167564/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 51494021,
+                "name": "Filtr Colombia",
+                "tracklist": "https://api.deezer.com/user/51494021/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "e9477e2fb3cfbae051f44d3fa1cf2df6",
+            "creation_date": "2020-08-06 10:18:21",
+            "id": 7978117782,
+            "link": "https://www.deezer.com/playlist/7978117782",
+            "md5_image": "6fe85ed44a9895c81b7acd0a92d20641",
+            "picture": "https://api.deezer.com/playlist/7978117782/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/6fe85ed44a9895c81b7acd0a92d20641/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/6fe85ed44a9895c81b7acd0a92d20641/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/6fe85ed44a9895c81b7acd0a92d20641/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/6fe85ed44a9895c81b7acd0a92d20641/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Julio Jaramillo Cantando Historia",
+            "tracklist": "https://api.deezer.com/playlist/7978117782/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 472417363,
+                "name": "Codiscos",
+                "tracklist": "https://api.deezer.com/user/472417363/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "464a3a30b78b674a6c3ced4af67636c8",
+            "creation_date": "2015-11-24 14:17:12",
+            "id": 1469064337,
+            "link": "https://www.deezer.com/playlist/1469064337",
+            "md5_image": "759f926a4a6790d491f0d450f613d1e7",
+            "picture": "https://api.deezer.com/playlist/1469064337/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/759f926a4a6790d491f0d450f613d1e7/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/759f926a4a6790d491f0d450f613d1e7/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/759f926a4a6790d491f0d450f613d1e7/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/759f926a4a6790d491f0d450f613d1e7/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "\u00c9xitos de la m\u00fasica popular",
+            "tracklist": "https://api.deezer.com/playlist/1469064337/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 472417363,
+                "name": "Codiscos",
+                "tracklist": "https://api.deezer.com/user/472417363/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "7412d404868d5d81a68dc0d73223040e",
+            "creation_date": "2017-10-04 13:10:46",
+            "id": 3654150426,
+            "link": "https://www.deezer.com/playlist/3654150426",
+            "md5_image": "7e8942e8f1896eaa721fc17c2293c605",
+            "picture": "https://api.deezer.com/playlist/3654150426/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/7e8942e8f1896eaa721fc17c2293c605/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/7e8942e8f1896eaa721fc17c2293c605/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/7e8942e8f1896eaa721fc17c2293c605/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/7e8942e8f1896eaa721fc17c2293c605/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Para nuestras madres",
+            "tracklist": "https://api.deezer.com/playlist/3654150426/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 302057723,
+                "name": "Diego - Deezer Editor Americas",
+                "tracklist": "https://api.deezer.com/user/302057723/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "60d48f373575e6148b70393b6f61e35d",
+            "creation_date": "2019-01-17 11:03:56",
+            "id": 5347246206,
+            "link": "https://www.deezer.com/playlist/5347246206",
+            "md5_image": "59e7b48d1d93163ed0f19ed5a9a98288",
+            "picture": "https://api.deezer.com/playlist/5347246206/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/59e7b48d1d93163ed0f19ed5a9a98288/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/59e7b48d1d93163ed0f19ed5a9a98288/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/59e7b48d1d93163ed0f19ed5a9a98288/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/59e7b48d1d93163ed0f19ed5a9a98288/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "AlCI ACOSTA - HOMENAJE A LA LEYENDA",
+            "tracklist": "https://api.deezer.com/playlist/5347246206/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 418953453,
+                "name": "Tu Boleta",
+                "tracklist": "https://api.deezer.com/user/418953453/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "9777784afe5ec7fef1f9496259a95199",
+            "creation_date": "2016-09-05 10:59:33",
+            "id": 2197338962,
+            "link": "https://www.deezer.com/playlist/2197338962",
+            "md5_image": "38be7f8099a8a822ce1a5776ab66b252",
+            "picture": "https://api.deezer.com/playlist/2197338962/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/38be7f8099a8a822ce1a5776ab66b252/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/38be7f8099a8a822ce1a5776ab66b252/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/38be7f8099a8a822ce1a5776ab66b252/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/38be7f8099a8a822ce1a5776ab66b252/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Narcos soundtrack",
+            "tracklist": "https://api.deezer.com/playlist/2197338962/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 796271495,
+                "name": "Antoine - Deezer Soundtracks Editor",
+                "tracklist": "https://api.deezer.com/user/796271495/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "a537f5f1cd44046b6a33ed92ead47f96",
+            "creation_date": "2017-04-17 12:36:27",
+            "id": 3030706206,
+            "link": "https://www.deezer.com/playlist/3030706206",
+            "md5_image": "c142547434889cda4a609cffd8ff9f3d",
+            "picture": "https://api.deezer.com/playlist/3030706206/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/c142547434889cda4a609cffd8ff9f3d/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/c142547434889cda4a609cffd8ff9f3d/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/c142547434889cda4a609cffd8ff9f3d/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/c142547434889cda4a609cffd8ff9f3d/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Cantando Historias",
+            "tracklist": "https://api.deezer.com/playlist/3030706206/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 472417363,
+                "name": "Codiscos",
+                "tracklist": "https://api.deezer.com/user/472417363/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "70b3e410c3246110253e6edcbbb77ecd",
+            "creation_date": "2017-06-01 15:42:00",
+            "id": 3194409166,
+            "link": "https://www.deezer.com/playlist/3194409166",
+            "md5_image": "cf8c224c247727c3435918cb55d25894",
+            "picture": "https://api.deezer.com/playlist/3194409166/image",
+            "picture_big": "https://cdns-images.dzcdn.net/images/playlist/cf8c224c247727c3435918cb55d25894/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://cdns-images.dzcdn.net/images/playlist/cf8c224c247727c3435918cb55d25894/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://cdns-images.dzcdn.net/images/playlist/cf8c224c247727c3435918cb55d25894/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/cf8c224c247727c3435918cb55d25894/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "NOCHE DE ESTRELLAS",
+            "tracklist": "https://api.deezer.com/playlist/3194409166/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 418953453,
+                "name": "Tu Boleta",
+                "tracklist": "https://api.deezer.com/user/418953453/flow",
+                "type": "user"
+            }
+        }
+    ],
+    "next": "https://api.deezer.com/artist/67781/playlists?index=10",
+    "total": 11
+}

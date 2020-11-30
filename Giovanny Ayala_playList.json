@@ -1,0 +1,93 @@
+{
+    "data": [
+        {
+            "checksum": "c7f9b4dcf7461f1c8ed942f90794f279",
+            "creation_date": "2020-03-03 12:05:08",
+            "id": 7335167564,
+            "link": "https://www.deezer.com/playlist/7335167564",
+            "md5_image": "4012ef81d30ddf1d0e4bd5ee3fabbd10",
+            "picture": "https://api.deezer.com/playlist/7335167564/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/4012ef81d30ddf1d0e4bd5ee3fabbd10/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/4012ef81d30ddf1d0e4bd5ee3fabbd10/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/4012ef81d30ddf1d0e4bd5ee3fabbd10/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/4012ef81d30ddf1d0e4bd5ee3fabbd10/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Popular y Ranchera 2020",
+            "tracklist": "https://api.deezer.com/playlist/7335167564/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 51494021,
+                "name": "Filtr Colombia",
+                "tracklist": "https://api.deezer.com/user/51494021/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "f1bab856145f957e8c1b27cc5efc87e8",
+            "creation_date": "2019-01-28 10:59:41",
+            "id": 5397499742,
+            "link": "https://www.deezer.com/playlist/5397499742",
+            "md5_image": "17eeb78ee85503f467ee418acff0bca5",
+            "picture": "https://api.deezer.com/playlist/5397499742/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/17eeb78ee85503f467ee418acff0bca5/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/17eeb78ee85503f467ee418acff0bca5/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/17eeb78ee85503f467ee418acff0bca5/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/17eeb78ee85503f467ee418acff0bca5/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "RANCHERAS 2020",
+            "tracklist": "https://api.deezer.com/playlist/5397499742/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 845677435,
+                "name": "Top Playlists",
+                "tracklist": "https://api.deezer.com/user/845677435/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "23c114b61dce9dbc34e034bc9faf68b3",
+            "creation_date": "2019-02-18 17:44:49",
+            "id": 5505188502,
+            "link": "https://www.deezer.com/playlist/5505188502",
+            "md5_image": "48ed1feb5367114d2e417ce61fd97f47",
+            "picture": "https://api.deezer.com/playlist/5505188502/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/48ed1feb5367114d2e417ce61fd97f47/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/48ed1feb5367114d2e417ce61fd97f47/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/48ed1feb5367114d2e417ce61fd97f47/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/48ed1feb5367114d2e417ce61fd97f47/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Rancheras mexicanas",
+            "tracklist": "https://api.deezer.com/playlist/5505188502/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 366993563,
+                "name": "Digster Music",
+                "tracklist": "https://api.deezer.com/user/366993563/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "8402c663cd5ac491ff8eaa1b6186fc70",
+            "creation_date": "2018-08-01 11:35:44",
+            "id": 4726208424,
+            "link": "https://www.deezer.com/playlist/4726208424",
+            "md5_image": "ac67b325621875459cd9c5c8f0a2cf64",
+            "picture": "https://api.deezer.com/playlist/4726208424/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/ac67b325621875459cd9c5c8f0a2cf64/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/ac67b325621875459cd9c5c8f0a2cf64/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/ac67b325621875459cd9c5c8f0a2cf64/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/ac67b325621875459cd9c5c8f0a2cf64/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Jhonny Rivera Presenta: Parrand\u00f3n Popular",
+            "tracklist": "https://api.deezer.com/playlist/4726208424/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 496135913,
+                "name": "ONErpm",
+                "tracklist": "https://api.deezer.com/user/496135913/flow",
+                "type": "user"
+            }
+        }
+    ],
+    "total": 4
+}

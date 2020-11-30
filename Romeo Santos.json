@@ -1,0 +1,226 @@
+{
+    "data": [
+        {
+            "checksum": "27bb1676ed73c40facefdd7245405132",
+            "creation_date": "2018-12-03 04:16:54",
+            "id": 5174094184,
+            "link": "https://www.deezer.com/playlist/5174094184",
+            "md5_image": "07336b267472c0bf659fd6d3595910a5",
+            "picture": "https://api.deezer.com/playlist/5174094184/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/07336b267472c0bf659fd6d3595910a5/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/07336b267472c0bf659fd6d3595910a5/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/07336b267472c0bf659fd6d3595910a5/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/07336b267472c0bf659fd6d3595910a5/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "10s Latin Music",
+            "tracklist": "https://api.deezer.com/playlist/5174094184/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 3115986664,
+                "name": "Diego - Deezer Latin Music Editor",
+                "tracklist": "https://api.deezer.com/user/3115986664/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "bc21100a650ebdd36d03f24a8bf20387",
+            "creation_date": "2015-08-05 12:26:57",
+            "id": 1328813587,
+            "link": "https://www.deezer.com/playlist/1328813587",
+            "md5_image": "f7ed93306392d5a744261f8590c9abb6",
+            "picture": "https://api.deezer.com/playlist/1328813587/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/f7ed93306392d5a744261f8590c9abb6/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/f7ed93306392d5a744261f8590c9abb6/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/f7ed93306392d5a744261f8590c9abb6/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/f7ed93306392d5a744261f8590c9abb6/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "S\u00f3lo Bachata",
+            "tracklist": "https://api.deezer.com/playlist/1328813587/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 302057723,
+                "name": "Diego - Deezer Editor Americas",
+                "tracklist": "https://api.deezer.com/user/302057723/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "ae4870748c9ed2e7f2ce7f50354cf8a6",
+            "creation_date": "2019-05-16 09:41:17",
+            "id": 5931172824,
+            "link": "https://www.deezer.com/playlist/5931172824",
+            "md5_image": "af2874af2a8676c5000b356bb6a29bb7",
+            "picture": "https://api.deezer.com/playlist/5931172824/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/af2874af2a8676c5000b356bb6a29bb7/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/af2874af2a8676c5000b356bb6a29bb7/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/af2874af2a8676c5000b356bb6a29bb7/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/af2874af2a8676c5000b356bb6a29bb7/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "\u00c9xitos Totales Trap",
+            "tracklist": "https://api.deezer.com/playlist/5931172824/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 302078805,
+                "name": "Manuel - Deezer Editor Americas",
+                "tracklist": "https://api.deezer.com/user/302078805/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "e846e98691d9afdc1281a95bba2a7f8f",
+            "creation_date": "2016-07-06 10:39:58",
+            "id": 1999758506,
+            "link": "https://www.deezer.com/playlist/1999758506",
+            "md5_image": "f5b85331c91d5f7091ad0bc85869484a",
+            "picture": "https://api.deezer.com/playlist/1999758506/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/f5b85331c91d5f7091ad0bc85869484a/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/f5b85331c91d5f7091ad0bc85869484a/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/f5b85331c91d5f7091ad0bc85869484a/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/f5b85331c91d5f7091ad0bc85869484a/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Musica de Diciembre - Superbailables",
+            "tracklist": "https://api.deezer.com/playlist/1999758506/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 51494021,
+                "name": "Filtr Colombia",
+                "tracklist": "https://api.deezer.com/user/51494021/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "0a2a64b3ae79a45a2cf4cdf20d3062fc",
+            "creation_date": "2020-02-28 09:15:09",
+            "id": 7317245404,
+            "link": "https://www.deezer.com/playlist/7317245404",
+            "md5_image": "c115734806499d8df299bddae734fef8",
+            "picture": "https://api.deezer.com/playlist/7317245404/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/c115734806499d8df299bddae734fef8/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/c115734806499d8df299bddae734fef8/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/c115734806499d8df299bddae734fef8/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/c115734806499d8df299bddae734fef8/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "Bachata Mix 2020 : Las mejores bachatas",
+            "tracklist": "https://api.deezer.com/playlist/7317245404/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 16867197,
+                "name": "Filtr France",
+                "tracklist": "https://api.deezer.com/user/16867197/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "72749be20d43526b60cdbd5b12fd6971",
+            "creation_date": "2018-08-31 08:10:21",
+            "id": 4820458864,
+            "link": "https://www.deezer.com/playlist/4820458864",
+            "md5_image": "d1937fd06c447e0b6749cbdcbfcb17d9",
+            "picture": "https://api.deezer.com/playlist/4820458864/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/d1937fd06c447e0b6749cbdcbfcb17d9/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/d1937fd06c447e0b6749cbdcbfcb17d9/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/d1937fd06c447e0b6749cbdcbfcb17d9/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/d1937fd06c447e0b6749cbdcbfcb17d9/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "100% Ozuna",
+            "tracklist": "https://api.deezer.com/playlist/4820458864/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 1990304482,
+                "name": "Deezer Artist Editor",
+                "tracklist": "https://api.deezer.com/user/1990304482/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "6628247095cd1c0247c647047af9cc75",
+            "creation_date": "2020-04-19 16:53:47",
+            "id": 7544452842,
+            "link": "https://www.deezer.com/playlist/7544452842",
+            "md5_image": "564d47fc01cddeba721af4c886d97f70",
+            "picture": "https://api.deezer.com/playlist/7544452842/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/564d47fc01cddeba721af4c886d97f70/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/564d47fc01cddeba721af4c886d97f70/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/564d47fc01cddeba721af4c886d97f70/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/564d47fc01cddeba721af4c886d97f70/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "100% Sech",
+            "tracklist": "https://api.deezer.com/playlist/7544452842/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 1990304482,
+                "name": "Deezer Artist Editor",
+                "tracklist": "https://api.deezer.com/user/1990304482/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "3ab6d62079095ada1ee53e3d15ce437c",
+            "creation_date": "2014-06-23 18:33:34",
+            "id": 905901935,
+            "link": "https://www.deezer.com/playlist/905901935",
+            "md5_image": "9d64804a07228d377a70fe358d18ea91",
+            "picture": "https://api.deezer.com/playlist/905901935/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/9d64804a07228d377a70fe358d18ea91/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/9d64804a07228d377a70fe358d18ea91/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/9d64804a07228d377a70fe358d18ea91/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/9d64804a07228d377a70fe358d18ea91/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "REGUETON 2020",
+            "tracklist": "https://api.deezer.com/playlist/905901935/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 492148543,
+                "name": "Filtr Mexico",
+                "tracklist": "https://api.deezer.com/user/492148543/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "9eba05226301585350b7d5739a780c3c",
+            "creation_date": "2020-10-01 09:08:57",
+            "id": 8186437902,
+            "link": "https://www.deezer.com/playlist/8186437902",
+            "md5_image": "691a3fa2c6415f0497c23406cc43b786",
+            "picture": "https://api.deezer.com/playlist/8186437902/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/691a3fa2c6415f0497c23406cc43b786/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/691a3fa2c6415f0497c23406cc43b786/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/691a3fa2c6415f0497c23406cc43b786/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/691a3fa2c6415f0497c23406cc43b786/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "100% Romeo Santos",
+            "tracklist": "https://api.deezer.com/playlist/8186437902/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 1990304482,
+                "name": "Deezer Artist Editor",
+                "tracklist": "https://api.deezer.com/user/1990304482/flow",
+                "type": "user"
+            }
+        },
+        {
+            "checksum": "be252116c321d7f8988998d53b55a87f",
+            "creation_date": "2019-01-30 09:48:55",
+            "id": 5406409242,
+            "link": "https://www.deezer.com/playlist/5406409242",
+            "md5_image": "a6945019184251a726577887a31a2bc8",
+            "picture": "https://api.deezer.com/playlist/5406409242/image",
+            "picture_big": "https://e-cdns-images.dzcdn.net/images/playlist/a6945019184251a726577887a31a2bc8/500x500-000000-80-0-0.jpg",
+            "picture_medium": "https://e-cdns-images.dzcdn.net/images/playlist/a6945019184251a726577887a31a2bc8/250x250-000000-80-0-0.jpg",
+            "picture_small": "https://e-cdns-images.dzcdn.net/images/playlist/a6945019184251a726577887a31a2bc8/56x56-000000-80-0-0.jpg",
+            "picture_xl": "https://e-cdns-images.dzcdn.net/images/playlist/a6945019184251a726577887a31a2bc8/1000x1000-000000-80-0-0.jpg",
+            "public": true,
+            "title": "100% Daddy Yankee",
+            "tracklist": "https://api.deezer.com/playlist/5406409242/tracks",
+            "type": "playlist",
+            "user": {
+                "id": 1990304482,
+                "name": "Deezer Artist Editor",
+                "tracklist": "https://api.deezer.com/user/1990304482/flow",
+                "type": "user"
+            }
+        }
+    ],
+    "next": "https://api.deezer.com/artist/1272674/playlists?index=10",
+    "total": 100
+}
