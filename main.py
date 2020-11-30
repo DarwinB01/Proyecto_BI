@@ -16,7 +16,7 @@ ACCESS_KEY_ID =  "AKIARHXSAHVRHOCGA66D"
 ACCESS_SECRET_KEY = "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"
 
 #Nombre del bucket donde se guardara la informacion
-BUCKET_NAME = 'bucketvirgen'
+BUCKET_NAME = 'buckettestbi2'
 
 # POST
 auth_response = requests.post(DEEZER_REDIRECT_URI, {
