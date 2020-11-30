@@ -28,9 +28,9 @@ auth_response = requests.post(DEEZER_REDIRECT_URI, {
 
 
 # base URL of all Deezer API endpoints
-BASE_URL = 'https://api.deezer.com/artist/355896/playlists'
+#BASE_URL = 'https://api.deezer.com/artist/5536564/playlists'
 
-#BASE_URL ='https://api.deezer.com/artist/7961888/fans'
+BASE_URL ='https://api.deezer.com/artist/3839/fans'
 
 # actual GET request with proper header
 response = requests.get(BASE_URL);
@@ -39,7 +39,7 @@ print(res)
 print()
 print(type(res))
 
-with open('Giovanny Ayala_playList.json', 'w') as f:
+with open('Arcangel_fans.json', 'w') as f:
     json.dump(res, f, indent=4, sort_keys=True)
 
 '''
@@ -47,7 +47,7 @@ ruta='C://Users//user//PycharmProjects//dezzerApi//Artistas//Sech//PlayList'
 with open(os.path.join(ruta, 'PlayList JBalvin.json'), 'w') as f:
     json.dump(r, f, indent=4, sort_keys=True)
 '''
-data = open('anuel_aa_fans.json', 'rb')
+data = open('Arcangel_fans.json', 'rb')
 
 s3 = boto3.resource(
     's3',
@@ -55,8 +55,7 @@ s3 = boto3.resource(
     aws_secret_access_key=ACCESS_SECRET_KEY,
     config=Config(signature_version='s3v4')
 )
-
-s3.Bucket(BUCKET_NAME).put_object(Key='Giovanny Ayala_playList.json', Body=data)
+s3.Bucket(BUCKET_NAME).put_object(Key='MJ_fans.json', Body=data)
 #s3.Object(BUCKET_NAME, 'anuel_aa_fans.json').put(Body=open('test/Artist/Anuel aa/playList/anuel_aa_fans.json', 'rb'))
 
 #s3 = boto3.resource('s3')
