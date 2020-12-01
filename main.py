@@ -12,8 +12,7 @@ DEEZER_APP_SECRET = "13ff2539f9cad5050430e6544fa6cd2e"
 DEEZER_REDIRECT_URI = "http://developers.deezer.com/api"
 
 #Credenciales aws
-ACCESS_KEY_ID =  "AKIARHXSAHVRHOCGA66D"
-ACCESS_SECRET_KEY = "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"
+
 
 #Nombre del bucket donde se guardara la informacion
 BUCKET_NAME = 'bucketvirgen'
