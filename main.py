@@ -15,7 +15,7 @@ DEEZER_REDIRECT_URI = "http://developers.deezer.com/api"
 
 
 #Nombre del bucket donde se guardara la informacion
-BUCKET_NAME = 'bucketvirgen'
+
 
 # POST
 auth_response = requests.post(DEEZER_REDIRECT_URI, {
@@ -46,12 +46,6 @@ with open(os.path.join(ruta, 'PlayList JBalvin.json'), 'w') as f:
 '''
 data = open('anuel_aa_fans.json', 'rb')
 
-s3 = boto3.resource(
-    's3',
-    aws_access_key_id=ACCESS_KEY_ID,
-    aws_secret_access_key=ACCESS_SECRET_KEY,
-    config=Config(signature_version='s3v4')
-)
 
 #s3.Bucket(BUCKET_NAME).put_object(Key='MJ_playList.json', Body=data)
 #s3.Object(BUCKET_NAME, 'anuel_aa_fans.json').put(Body=open('test/Artist/Anuel aa/playList/anuel_aa_fans.json', 'rb'))
@@ -60,13 +54,6 @@ s3 = boto3.resource(
 #BUCKET = "test"
 
 #s3.Bucket(BUCKET_NAME).upload_file("C://Users//lenovo//Documents//BI", "dump/BI")
-
-
-client = boto3.client(
-    's3',
-    aws_access_key_id=ACCESS_KEY_ID,
-    aws_secret_access_key=ACCESS_SECRET_KEY,
-)
 
 #ANUEl AA
 upload_file_key = 'Artistas/'+'Anuel aa/'+'palyList/' + 'anuel_aa_playList.json'
