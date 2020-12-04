@@ -50,15 +50,6 @@ for i in range(len(id_Artist)):
     with open(name_Artist[i] + '_fans.json', 'w') as f:
         json.dump(res2, f, indent=4, sort_keys=True)
 
-
-s3 = boto3.resource(
-    's3',
-    aws_access_key_id=ACCESS_KEY_ID,
-    aws_secret_access_key=ACCESS_SECRET_KEY,
-    config=Config(signature_version='s3v4')
-)
-
-
 client = boto3.client(
     's3',
     aws_access_key_id=ACCESS_KEY_ID,
@@ -68,6 +59,7 @@ client = boto3.client(
 for i in range(len(name_Artist)):
     upload_file_key = 'Artistas/'+ name_Artist[i]+'/playList/' + name_Artist[i]+'_playlist.json'
     client.upload_file(name_Artist[i]+'_playList.json', BUCKET_NAME, upload_file_key)
+
 
     upload_file_key = 'Artistas/' + name_Artist[i]+'/fans/' +name_Artist[i]+ '_fans.json'
     client.upload_file(name_Artist[i]+'_fans.json', BUCKET_NAME, upload_file_key)
